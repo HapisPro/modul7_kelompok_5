@@ -9,5 +9,3 @@ Albert.ReadJSON();
 Console.WriteLine("");
 teamAlbert.ReadJSON();
 Console.WriteLine("");
-
-
