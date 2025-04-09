@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="models\TeamMembers_103022300127.cs" />
+  </ItemGroup>
+
 </Project>

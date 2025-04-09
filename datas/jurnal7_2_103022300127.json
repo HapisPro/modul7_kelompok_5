@@ -1,0 +1,39 @@
+{
+  "members" : [
+    {
+       "firstName": "Hizkia Nicander",
+       "lastName": "Budiyanto",
+       "gender": "male",
+       "age": 19,
+       "nim": "103022300127"
+    },
+    {
+      "firstName": "M. Hafidz",
+      "lastName": "Al Kausar",
+      "gender": "male",
+      "age": 19,
+      "nim": "103022300069"
+    },
+    {
+      "firstName": "Bintang Anugrah",
+      "lastName": "Pratama",
+      "gender": "male",
+      "age": 19,
+      "nim": "103022300058"
+    },
+    {
+      "firstName": "Syarif",
+      "lastName": "Syarif",
+      "gender": "male",
+      "age": 19,
+      "nim": "103022300094"
+    },
+    {
+      "firstName": "Albert",
+      "lastName": "Febrian",
+      "gender": "male",
+      "age": 19,
+      "nim": "103022300003"
+    }
+  ]
+}

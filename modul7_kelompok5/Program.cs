@@ -8,8 +8,11 @@ namespace tpmodul7_kelompok_5
         static void Main(string[] args)
         {
             DataMahasiswa_103022300127 Hizkia = new DataMahasiswa_103022300127();
+            TeamMembers_103022300127 TeamHizkia = new TeamMembers_103022300127();
             Hizkia.ReadJSON();
-            Console.WriteLine(""); ;
+            Console.WriteLine("");
+            TeamHizkia.ReadJSON();
+            Console.WriteLine();
         }
     }
 }
